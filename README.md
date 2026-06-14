@@ -1,1 +1,2 @@
 # DecodeLabs-Internship
+This project focuses on understanding the needs, behaviors, goals, and frustrations of busy office professionals who struggle to maintain a fitness routine. Through a user persona and empathy map, key insights were identified regarding time constraints, motivation challenges, and health concerns. These findings will guide the design of a fitness application that provides quick workouts, personalized recommendations, progress tracking, and flexible scheduling options.
